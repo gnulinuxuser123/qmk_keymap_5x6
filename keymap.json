@@ -59,7 +59,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "MEH(KC_BSPC)",
+      "MEH_T(KC_BSPC)",
       "LSFT_T(KC_ENT)",
       "LT(1,KC_SPC)",
       "LT(4,KC_DEL)",
@@ -337,7 +337,5 @@
       "KC_TRNS"
     ]
   ],
-  
-  
   "author": ""
 }
