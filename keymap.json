@@ -5,7 +5,7 @@
   "keyboard": "handwired/dactyl_manuform/5x6",
   "keymap": "gnulinuxuser123",
   "layout": "LAYOUT_5x6",
-  "layers": [
+"layers": [
     [
       "KC_TRNS",
       "KC_TRNS",
@@ -64,8 +64,8 @@
       "LT(1,KC_SPC)",
       "LT(4,KC_DEL)",
       "KC_TRNS",
-      "LCTL_T(KC_ESC)",
-      "LALT_T(KC_TAB)",
+      "LALT_T(KC_ESC)",
+      "LCTL_T(KC_TAB)",
       "KC_TRNS",
       "KC_TRNS",
       "TG(2)",
